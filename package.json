@@ -2,14 +2,17 @@
   "name": "bitway",
   "version": "1.0.0",
   "description": "",
-  "main": "parcel index.html",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^1.10.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
   }
 }
