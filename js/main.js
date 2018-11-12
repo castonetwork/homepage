@@ -1,12 +1,3 @@
-/*=========================================
-
-Template Name: Bitway - Crypto Currency HTML5 Template
-Author: Theme_Choices
-Version: 1.0
-Design and Developed by: Theme_Choices
-
-=========================================*/
-
 (function($) {
     "use strict";
 
