@@ -503,12 +503,12 @@ a:focus {
 	transition:all 0.3s ease 0s;
 }
 .about-section2{
-	background:url(../images/about/about-bg.jpg) center;
+	background:url(../images/about/about-bg.png) center;
 	background-size:cover;
 	height:626px;
 }
 .about-section3{
-	background:url(../images/about/about-bg2.jpg) center;
+	background:url(../images/about/about-bg.png) center;
 	background-size:cover;
 	height:620px;
 }
