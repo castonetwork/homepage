@@ -452,6 +452,7 @@ a:focus {
   -webkit-transition: all ease 0.8s;
   -moz-transition: all ease 0.8s;
   transition: all ease 0.8s;
+  margin-right: 0.9em;
 }
 
 .banner-btn:hover {
