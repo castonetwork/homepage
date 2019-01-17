@@ -1,3 +1,9 @@
+function initApp() {
+    setTimeout(function() {
+        $("iframe.embed").attr('src', 'https://ocean.casto.tv/?serviceId=testo');
+    }, 1);
+}
+
 (function($) {
     "use strict";
 
@@ -33,7 +39,7 @@
     ==============================*/
 
     $(window).on('load', function() {
-        $('.preloader').fadeOut(1000);
+        $('.preloader').fadeOut(1000, initApp);
     });
 
     /*==========================
