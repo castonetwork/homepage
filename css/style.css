@@ -1983,6 +1983,7 @@ tr.light td {
   font-size: 15px;
   font-family: 'gotham_book';
   line-height: 40px;
+  text-decoration: underline;
 }
 
 .footer-contact h5 {
