@@ -11,7 +11,16 @@
   font-family: 'gotham_medium';
   src: url(../fonts/gotham-medium.ttf);
 }
-
+@media (min-width:100px) and (max-width:600px){
+  .tech-heading2 h2 {
+    color: white;
+    font-size: 3.1em;
+    font-weight: 900;
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 15px;
+    text-align: right;
+  }
+}
 .demo-section {
   background: #f4f7f9;
   padding-top: 80px;
@@ -484,7 +493,7 @@ a:focus {
 
 .about-heading h2 {
   color: #101115;
-  font-size: 50px;
+  font-size: 2.3em;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   padding-bottom: 15px;
@@ -530,7 +539,7 @@ a:focus {
 
 .about-text p {
   color: #444;
-  font-size: 30px;
+  font-size: 1.7em;
   font-family: 'gotham_book';
   line-height: 50px;
 }
@@ -1291,7 +1300,7 @@ tr.light td {
 
 .tech-heading h2 {
   color: white;
-  font-size: 60px;
+  font-size: 2.5em;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   padding-bottom: 15px;
@@ -1299,7 +1308,7 @@ tr.light td {
 }
 .tech-heading2 h2 {
   color: white;
-  font-size: 120px;
+  font-size: 3.7em;
   font-weight: 900;
   font-family: "Poppins", sans-serif;
   padding-bottom: 15px;
