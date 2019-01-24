@@ -484,11 +484,11 @@ a:focus {
 
 .about-heading h2 {
   color: #101115;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   padding-bottom: 15px;
-  text-align: center;
+  text-align: left;
 }
 
 .about-dark-heading h2 {
@@ -497,7 +497,7 @@ a:focus {
 
 .about-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 26px;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -530,9 +530,9 @@ a:focus {
 
 .about-text p {
   color: #444;
-  font-size: 15px;
+  font-size: 30px;
   font-family: 'gotham_book';
-  line-height: 30px;
+  line-height: 50px;
 }
 
 .about-dark-text p {
