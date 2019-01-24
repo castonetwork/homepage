@@ -1,6 +1,6 @@
 function initApp() {
     setTimeout(function() {
-        $("iframe.embed").attr('src', 'https://ocean.casto.tv/?serviceId=testo');
+        $("iframe.embed").attr('src', 'https://ocean.casto.tv/?serviceId=CASTO');
     }, 1);
 }
 
