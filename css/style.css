@@ -1908,14 +1908,14 @@ tr.light td {
   background: url(../images/footer/footer-bg.jpg) center;
   height: 468px;
   background-size: cover;
-  padding-top: 110px;
+  padding-top: 50px;
 }
 
 .footer-dark-section {
   background: url(../images/footer/footer-bg2.jpg) center;
   height: 462px;
   background-size: cover;
-  padding-top: 110px;
+  padding-top: 50px;
 }
 
 .footer-text h4 {
