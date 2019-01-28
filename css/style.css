@@ -292,7 +292,6 @@
 
 .header-logo {
   display: block;
-  margin-top: -2px;
 }
 
 .header-logo a {
@@ -300,6 +299,10 @@
   color: #eef7ff;
   font-family: 'Matuka', sans-serif;
   font-weight: 500;
+}
+
+.header-logo img {
+  height: 100%;
 }
 
 .header-logo a span {
@@ -312,6 +315,11 @@
 
 .main-menu-area {
   text-align: right;
+  height: 100%;
+}
+
+.header-nav {
+  height: 100%;
 }
 
 .header-nav li ul {
@@ -390,6 +398,17 @@
   color: #fff !important;
 }
 
+#navigation {
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#navigation>li {
+  margin-top: 0.2em;
+}
+
 a:focus,
 a:hover {
   text-decoration: none;
@@ -462,6 +481,10 @@ a:focus {
   -moz-transition: all ease 0.8s;
   transition: all ease 0.8s;
   margin-right: 0.9em;
+}
+
+.small {
+  font-size: 10pt !important;
 }
 
 .banner-btn:hover {
@@ -1291,6 +1314,10 @@ tr.light td {
   padding-top: 100px;
 }
 
+.tech-section>.container>.row+.row>p {
+  padding-left: 0;
+}
+
 .tech-dark-section {
   background-color:#f06292;
   /* background: url(../images/team/team-dark-bg.png) center; */
@@ -1306,6 +1333,7 @@ tr.light td {
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: left;
+  margin-bottom: 2em;
 }
 .tech-heading2 h2 {
   color: white;
@@ -1318,11 +1346,9 @@ tr.light td {
 
 .tech-heading p {
   color: #444;
-  font-size: 30px;
+  font-size: 16pt;
   font-family: 'gotham_book';
-  /* line-height: 28px; */
   text-align: left;
-  /* padding-bottom: 80px; */
 }
 
 .team-dark-heading h2 {
@@ -1940,20 +1966,18 @@ tr.light td {
 
 .footer-text p {
   color: #f3fbfe;
-  font-size: 15px;
+  font-size: 7px;
   font-family: 'gotham_book';
   line-height: 30px;
-  padding-bottom: 15px;
 }
 
 .footer-text a {
   color: #fff;
   width: 22px;
   height: 40px;
-  line-height: 40px;
   text-align: center;
   border-radius: 12px;
-  font-size: 22px;
+  font-size: 8px;
   display: inline-block;
   margin-right: 30px;
 }
