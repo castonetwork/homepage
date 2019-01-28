@@ -80,7 +80,7 @@ function initApp() {
     ==============================*/
 
     $('nav#mobile-nav').meanmenu({
-        siteLogo: "<a href='index.html'><img src='images/header-banner/header-logo.png' /></a>"
+        siteLogo: "<a href='index.html'><img src='images/logos/casto.logo.svg' /></a>"
     });
 
 	/*=============================

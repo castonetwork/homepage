@@ -16,7 +16,7 @@
     color: white;
     font-size: 3.1em;
     font-weight: 900;
-    font-family: "Poppins", sans-serif;
+    font-family: "Mukta", sans-serif;
     padding-bottom: 15px;
     text-align: right;
   }
@@ -99,7 +99,7 @@
 
 .demo-content-img a::after {
   color: #fff;
-  content: "Live Preview ➞";
+  content: "Live Preview ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾";
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: italic;
@@ -298,7 +298,7 @@
 .header-logo a {
   font-size: 27px;
   color: #eef7ff;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Matuka', sans-serif;
   font-weight: 500;
 }
 
@@ -339,7 +339,7 @@
 
 .header-nav li a {
   color: #eef7ff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 17px;
   font-weight: 500;
 }
@@ -428,9 +428,9 @@ a:focus {
 }
 
 .banner-text h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Matuka', sans-serif;
   font-size: 50px;
-  font-weight: 600;
+  font-weight: 800;
   color: #fff;
   line-height: 1.4;
   padding-bottom: 10px;
@@ -449,7 +449,7 @@ a:focus {
   background: #88ff27;
   border: 2px solid #88ff27;
   padding: 14px 35px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Matuka', sans-serif;
   font-size: 17px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -493,11 +493,12 @@ a:focus {
 
 .about-heading h2 {
   color: #101115;
-  font-size: 2.3em;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  padding-bottom: 15px;
+  font-size: 2.1em;
+  font-weight: 700;
+  font-family: "Matuka", sans-serif;
+  padding-bottom: 0;
   text-align: left;
+  line-height: 140%;
 }
 
 .about-dark-heading h2 {
@@ -527,7 +528,7 @@ a:focus {
 
 .about-text h3 {
   color: #101116;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Matuka', sans-serif;
   font-size: 22px;
   font-weight: 500;
   padding-bottom: 10px;
@@ -539,9 +540,9 @@ a:focus {
 
 .about-text p {
   color: #444;
-  font-size: 1.7em;
+  font-size: 1em;
   font-family: 'gotham_book';
-  line-height: 50px;
+  line-height: 195%;
 }
 
 .about-dark-text p {
@@ -581,7 +582,7 @@ a:focus {
 
 .about-text2 h3 {
   color: #fff;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Matuka', sans-serif;
   font-size: 35px;
   font-weight: 600;
   padding-bottom: 15px;
@@ -627,7 +628,7 @@ a:focus {
   border: 2px solid #88ff27;
   padding: 14px 42px;
   margin-top: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Matuka', sans-serif;
   font-size: 17px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -671,7 +672,7 @@ a:focus {
 
 .distribution-text h3 {
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 35px;
   font-weight: 600;
   padding-bottom: 15px;
@@ -696,7 +697,7 @@ a:focus {
 
 .sale-heading h2 {
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 40px;
   font-weight: 600;
   padding-bottom: 15px;
@@ -731,7 +732,7 @@ a:focus {
   color: #b4b4b4;
   font-size: 17px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
 }
 
 .sale-text ul.sale-nav li span.first {
@@ -810,7 +811,7 @@ a:focus {
 
 .roadmap-heading h2 {
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 40px;
   font-weight: 600;
   padding-bottom: 15px;
@@ -866,7 +867,7 @@ a:focus {
   color: #696970;
   font-size: 18px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
 }
 
 .roadmap-content p {
@@ -898,7 +899,7 @@ a:focus {
   color: #000;
   font-size: 18px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-top: 10px;
 }
 
@@ -913,7 +914,7 @@ a:focus {
   color: #356eff;
   font-size: 18px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   display: block;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -979,7 +980,7 @@ a:focus {
   color: #101115;
   font-size: 40px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1008,7 +1009,7 @@ a:focus {
 
 .service-text h3 {
   color: #101115;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 22px;
   font-weight: 500;
   padding-bottom: 10px;
@@ -1018,7 +1019,7 @@ a:focus {
 
 .service-text p {
   color: #666;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 30px;
@@ -1049,7 +1050,7 @@ a:focus {
 
 .counter-items span {
   font-size: 56px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   color: #fff;
   font-weight: 600;
   display: inline;
@@ -1058,7 +1059,7 @@ a:focus {
 
 .counter-items h3 {
   font-size: 20px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   color: #fff;
   font-weight: 500;
   text-align: center;
@@ -1093,7 +1094,7 @@ a:focus {
   color: #101115;
   font-size: 40px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1119,7 +1120,7 @@ a:focus {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
 }
 
 .table-info, .table-info > td, .table-info > th {
@@ -1187,7 +1188,7 @@ tr.light td {
   color: #101115;
   font-size: 40px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1241,14 +1242,14 @@ tr.light td {
 }
 
 .team-items .overlay h3 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 20px;
   color: #fff;
   font-weight: 600;
 }
 
 .team-items .overlay p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 14px;
   color: #fff;
   font-weight: 400;
@@ -1302,7 +1303,7 @@ tr.light td {
   color: white;
   font-size: 2.5em;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: left;
 }
@@ -1310,7 +1311,7 @@ tr.light td {
   color: white;
   font-size: 3.7em;
   font-weight: 900;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: right;
 }
@@ -1364,14 +1365,14 @@ tr.light td {
 }
 
 .team-items .overlay h3 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 20px;
   color: #fff;
   font-weight: 600;
 }
 
 .team-items .overlay p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 14px;
   color: #fff;
   font-weight: 400;
@@ -1423,7 +1424,7 @@ tr.light td {
   color: #fff;
   font-size: 40px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1473,7 +1474,7 @@ tr.light td {
 .reviews-name h4 {
   color: #000;
   font-size: 18px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-weight: 600;
   text-align: center;
   text-transform: uppercase;
@@ -1483,7 +1484,7 @@ tr.light td {
 .reviews-name span {
   color: #444;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-weight: 400;
   text-align: center;
   display: block;
@@ -1577,7 +1578,7 @@ tr.light td {
   color: #101115;
   font-size: 40px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1602,6 +1603,7 @@ tr.light td {
 .blog-posts {
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
+  height: 27em;
 }
 
 .blog-dark-posts {
@@ -1616,11 +1618,10 @@ tr.light td {
 .blog-content {
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 30px;
 }
 
 .blog-posts h4 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 19px;
   color: #000;
   font-weight: 600;
@@ -1634,7 +1635,7 @@ tr.light td {
 .blog-posts p.tag {
   font-size: 13px;
   color: #666;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-top: 3px;
   margin-bottom: 8px;
 }
@@ -1662,7 +1663,7 @@ tr.light td {
 
 .blog-posts p {
   color: #666;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 28px;
@@ -1678,6 +1679,8 @@ tr.light td {
   font-size: 14px;
   font-weight: 400;
   padding-top: 20px;
+  position: absolute;
+  bottom: 3em;
 }
 
 .blog-dark-posts a.read-more {
@@ -1712,9 +1715,9 @@ tr.light td {
 
 .faq-heading h2 {
   color: #101115;
-  font-size: 40px;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-size: 2.1em;
+  font-weight: 700;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1760,7 +1763,7 @@ tr.light td {
   background: #e3e2e8;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left: 15px;
+  padding-left: 24px;
 }
 
 .bs-dark-example {
@@ -1769,7 +1772,6 @@ tr.light td {
 
 .panel-group-heading h3 {
   margin-top: 80px;
-  margin-bottom: 30px;
   color: #ff4800;
   font-size: 16px;
   font-family: 'gotham_medium';
@@ -1805,9 +1807,10 @@ tr.light td {
 
 .panel-body p {
   font-family: "gotham_book", sans-serif;
-  font-size: 16px;
+  font-size: 1em;
   font-weight: 200;
   color: #444;
+  line-height: 195%;
 }
 
 .panel-dark-body p {
@@ -1832,7 +1835,7 @@ tr.light td {
   color: #101115;
   font-size: 40px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -1856,7 +1859,7 @@ tr.light td {
 
 .contact-form input {
   color: #444;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 16px;
   font-weight: 400;
   height: 50px;
@@ -1875,7 +1878,7 @@ tr.light td {
 .contact-form button {
   background: #2196f3;
   border: 1px solid #2196f3;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 17px;
   font-weight: 400;
   color: #fff;
@@ -1903,7 +1906,7 @@ tr.light td {
 }
 
 .contact-form .error {
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   font-size: 14px;
   font-weight: 400;
   color: #F00;
@@ -1931,7 +1934,7 @@ tr.light td {
   color: #ffffff;
   font-size: 27px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 10px;
 }
 
@@ -1966,7 +1969,7 @@ tr.light td {
   color: #f3fbfe;
   font-size: 20px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 10px;
 }
 
@@ -1990,7 +1993,7 @@ tr.light td {
   color: #f3fbfe;
   font-size: 20px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Matuka", sans-serif;
   padding-bottom: 10px;
 }
 
@@ -2026,4 +2029,9 @@ tr.light td {
 
 #inverstors img {
   height: 4.5em;
+}
+
+.mean-bar img {
+  width: 6em;
+  height: auto;
 }
