@@ -1,7 +1,9 @@
 /*================================================
              1. DEMO SECTION
 ==================================================*/
-
+/* * {
+  outline: rgba(255,255,255,.3) solid 1px;
+} */
 @font-face {
   font-family: 'gotham_book';
   src: url(../fonts/gotham-book.ttf);
@@ -99,7 +101,7 @@
 
 .demo-content-img a::after {
   color: #fff;
-  content: "Live Preview ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾";
+  content: "Live Preview ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾";
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-style: italic;
@@ -652,7 +654,7 @@ a:focus {
   padding: 14px 42px;
   margin-top: 20px;
   font-family: 'Matuka', sans-serif;
-  font-size: 17px;
+  font-size: 10pt;
   font-weight: 600;
   letter-spacing: 1px;
   border-radius: 35px;
@@ -1001,8 +1003,8 @@ a:focus {
 
 .service-heading h2 {
   color: #101115;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
@@ -1308,8 +1310,7 @@ tr.light td {
 
 .tech-section {
   background-color:#f06292;
-  /* background: url(../images/team/team-bg.png) center; */
-  height: 744px;
+  height: 29em;
   background-size: cover;
   padding-top: 100px;
 }
@@ -1328,8 +1329,8 @@ tr.light td {
 
 .tech-heading h2 {
   color: white;
-  font-size: 2.5em;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: left;
@@ -1344,9 +1345,13 @@ tr.light td {
   text-align: right;
 }
 
+.tech-heading2 p {
+  margin-top: 0.7em;
+}
+
 .tech-heading p {
-  color: #444;
-  font-size: 16pt;
+  color: #000;
+  font-size: 1em;
   font-family: 'gotham_book';
   text-align: left;
 }
@@ -1602,8 +1607,8 @@ tr.light td {
 
 .blog-heading h2 {
   color: #101115;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
@@ -1966,9 +1971,10 @@ tr.light td {
 
 .footer-text p {
   color: #f3fbfe;
-  font-size: 7px;
+  font-size: 6pt;
   font-family: 'gotham_book';
-  line-height: 30px;
+  line-height: 150%;
+  margin-bottom: 0;
 }
 
 .footer-text a {
@@ -1982,6 +1988,11 @@ tr.light td {
   margin-right: 30px;
 }
 
+@media only screen and (max-width: 767px)
+.footer-contact p {
+    font-size: 9pt;
+}
+
 .footer-text a.second {
 }
 
@@ -1991,8 +2002,8 @@ tr.light td {
 
 .footer-nav h5 {
   color: #f3fbfe;
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 12pt;
+  font-weight: 800;
   font-family: "Matuka", sans-serif;
   padding-bottom: 10px;
 }
@@ -2002,30 +2013,39 @@ tr.light td {
 }
 
 .footer-nav ul li {
-  list-style: none;
+  font-size: 9pt;
 }
 
 .footer-nav ul li a {
-  color: #f3fbfe;
-  font-size: 15px;
+  color: #dadada;
+  font-size: 9pt;
   font-family: 'gotham_book';
-  line-height: 40px;
   text-decoration: underline;
 }
 
 .footer-contact h5 {
   color: #f3fbfe;
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 12pt;
+  font-weight: 800;
   font-family: "Matuka", sans-serif;
   padding-bottom: 10px;
 }
 
 .footer-contact p {
   color: #f3fbfe;
-  font-size: 15px;
+  font-size: 9pt !important;
   font-family: 'gotham_book';
-  line-height: 40px;
+  margin-top: 10px;
+  margin-bottom: -8px;
+}
+
+.footer-contact a {
+  color: #fff;
+  line-height: 200%;
+}
+
+.social a {
+  margin-right: 1em;
 }
 
 /* add some stuff */
