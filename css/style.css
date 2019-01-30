@@ -483,6 +483,7 @@ a:focus {
   -moz-transition: all ease 0.8s;
   transition: all ease 0.8s;
   margin-right: 0.9em;
+  margin-bottom: 0.9em;
 }
 
 .small {
@@ -822,6 +823,7 @@ a:focus {
   font-size: 15px;
   line-height: 30px;
   padding-top: 10px;
+  margin-bottom: 2.1em;
 }
 
 /*================================================
@@ -1196,7 +1198,7 @@ tr.light td {
 ==================================================*/
 
 .team-section {
-  background: url(../images/team/team-bg.png) center;
+  background: #e7e1fe;
   height: 744px;
   background-size: cover;
   padding-top: 100px;
@@ -1252,7 +1254,7 @@ tr.light td {
 }
 
 .team-items .overlay {
-  background: #3873ff;
+  background: #f6f3fe;
   height: 100%;
   left: 0;
   top: 70%;
@@ -1381,7 +1383,7 @@ tr.light td {
 }
 
 .team-items .overlay {
-  background: #3873ff;
+  background: #11132c;
   height: 100%;
   left: 0;
   top: 70%;
@@ -1795,6 +1797,7 @@ tr.light td {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 24px;
+  padding-right: 24px;
 }
 
 .bs-dark-example {
