@@ -617,7 +617,7 @@ a:focus {
 .about-text2 p {
   color: #fff;
   font-family: "gotham_book";
-  font-size: 15px;
+  font-size: 1em;
   line-height: 30px;
 }
 
@@ -707,7 +707,7 @@ a:focus {
 .distribution-text p {
   color: #a6a7ac;
   font-family: "gotham_book";
-  font-size: 15px;
+  font-size: 1em;
   line-height: 30px;
 }
 
@@ -724,8 +724,8 @@ a:focus {
 .sale-heading h2 {
   color: #fff;
   font-family: "Matuka", sans-serif;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -733,7 +733,7 @@ a:focus {
 .sale-heading p {
   color: #a6a7ac;
   font-family: "gotham_book";
-  font-size: 16px;
+  font-size: 1em;
   line-height: 28px;
   padding-bottom: 80px;
   text-align: center;
@@ -812,7 +812,7 @@ a:focus {
 
 .sale-text span {
   font-family: 'gotham_book';
-  font-size: 15px;
+  font-size: 1em;
   color: #fff;
   padding-bottom: 5px;
 }
@@ -820,7 +820,7 @@ a:focus {
 .sale-text p {
   color: #a6a7ac;
   font-family: "gotham_book";
-  font-size: 15px;
+  font-size: 1em;
   line-height: 30px;
   padding-top: 10px;
   margin-bottom: 2.1em;
@@ -839,8 +839,8 @@ a:focus {
 .roadmap-heading h2 {
   color: #fff;
   font-family: "Matuka", sans-serif;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   padding-bottom: 15px;
   text-align: center;
 }
@@ -848,7 +848,7 @@ a:focus {
 .roadmap-heading p {
   color: #a6a7ac;
   font-family: "gotham_book";
-  font-size: 16px;
+  font-size: 1em;
   line-height: 28px;
   padding-bottom: 80px;
   text-align: center;
@@ -1014,7 +1014,7 @@ a:focus {
 
 .service-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1047,7 +1047,7 @@ a:focus {
 .service-text p {
   color: #666;
   font-family: "Matuka", sans-serif;
-  font-size: 15px;
+  font-size: 1em;
   font-weight: 400;
   line-height: 30px;
   text-align: center;
@@ -1119,8 +1119,8 @@ a:focus {
 
 .currency-heading h2 {
   color: #101115;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
@@ -1128,7 +1128,7 @@ a:focus {
 
 .currency-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1213,8 +1213,8 @@ tr.light td {
 
 .team-heading h2 {
   color: #101115;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
@@ -1222,7 +1222,7 @@ tr.light td {
 
 .team-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1455,8 +1455,8 @@ tr.light td {
 
 .reviews-heading h2 {
   color: #fff;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
@@ -1464,7 +1464,7 @@ tr.light td {
 
 .reviews-heading p {
   color: #fff;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1516,7 +1516,7 @@ tr.light td {
 
 .reviews-name span {
   color: #444;
-  font-size: 15px;
+  font-size: 1em;
   font-family: "Matuka", sans-serif;
   font-weight: 400;
   text-align: center;
@@ -1618,7 +1618,7 @@ tr.light td {
 
 .blog-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1757,7 +1757,7 @@ tr.light td {
 
 .faq-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1807,7 +1807,7 @@ tr.light td {
 .panel-group-heading h3 {
   margin-top: 80px;
   color: #ff4800;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_medium';
 }
 
@@ -1867,8 +1867,8 @@ tr.light td {
 
 .contact-heading h2 {
   color: #101115;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 2.1em;
+  font-weight: 700;
   font-family: "Matuka", sans-serif;
   padding-bottom: 15px;
   text-align: center;
@@ -1876,7 +1876,7 @@ tr.light td {
 
 .contact-heading p {
   color: #444;
-  font-size: 16px;
+  font-size: 1em;
   font-family: 'gotham_book';
   line-height: 28px;
   text-align: center;
@@ -1894,7 +1894,7 @@ tr.light td {
 .contact-form input {
   color: #444;
   font-family: "Matuka", sans-serif;
-  font-size: 16px;
+  font-size: 1em;
   font-weight: 400;
   height: 50px;
   margin-top: 25px;
