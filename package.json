@@ -1,5 +1,5 @@
 {
-  "name": "bitway",
+  "name": "CASTO homepage",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -8,8 +8,8 @@
     "parcel": "parcel index.html"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jaeho Lee <jhlee@casto.network>",
+  "license": "MIT",
   "devDependencies": {
     "http-server": "^0.11.1",
     "parcel": "^1.10.3"
